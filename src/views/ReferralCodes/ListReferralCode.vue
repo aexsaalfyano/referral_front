@@ -335,7 +335,7 @@ export default {
                     referralCode: this.referral_code,
                     type: this.type,
                     description: this.description,
-                    createdBy: 'Aexsa Alfyano'
+                    // createdBy: 'Aexsa Alfyano'
                 }
             }
 
